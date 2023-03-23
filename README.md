@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix OBB xywh-angle concatenation bug (#7404)
