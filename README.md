@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
