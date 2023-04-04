@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
