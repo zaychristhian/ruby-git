@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Retry once for Docker CI failures (#8164)
