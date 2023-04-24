@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Fix PIL show() and save() (#8202)
