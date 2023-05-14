@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
