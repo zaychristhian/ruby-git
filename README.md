@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+OpenVino 2024.0.0 (#8726)
