@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
