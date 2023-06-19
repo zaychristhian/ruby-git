@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Model typehints Docker fix (#8306)
