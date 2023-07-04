@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
