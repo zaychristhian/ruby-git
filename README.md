@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
