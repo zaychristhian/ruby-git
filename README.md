@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add PR Summary step to Ultralytics Actions (#7675)
