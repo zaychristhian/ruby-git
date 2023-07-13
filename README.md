@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
