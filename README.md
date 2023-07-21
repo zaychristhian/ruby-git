@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
