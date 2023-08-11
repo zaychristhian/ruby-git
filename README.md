@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
