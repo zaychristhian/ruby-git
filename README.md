@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add estimate_speed(region_color) parameter (#8285)
