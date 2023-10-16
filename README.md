@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Bounding Box to OBB conversion (#7572)
