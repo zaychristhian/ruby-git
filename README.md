@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
