@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
