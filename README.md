@@ -1,1 +1,1 @@
-added badges (#45)
+Explorer Cleanup (#7364)
