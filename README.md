@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Update Docs Home and Neural Magic pages (#7243)
