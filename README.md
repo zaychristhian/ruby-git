@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+fix yolo classify model loading error (#9196)
