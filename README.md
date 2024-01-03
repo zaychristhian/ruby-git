@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+New HUB Cloud Training docs page (#8174)
