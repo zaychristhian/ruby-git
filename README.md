@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Auto-format by https://ultralytics.com/actions
