@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Fix docker.yaml double-quote version bug (#7452)
