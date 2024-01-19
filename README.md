@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add PaddlePaddle Docs Integrations Page (#8858)
