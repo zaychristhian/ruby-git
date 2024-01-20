@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
