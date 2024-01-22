@@ -1,1 +1,1 @@
-update requirements.txt
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
