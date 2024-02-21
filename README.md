@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
