@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Clean up unused imgsz (#7771)
