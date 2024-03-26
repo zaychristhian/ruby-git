@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add Neural Magic Docs integrations page (#7234)
