@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fixed RTDETR GFLOPs bug (#7309)
