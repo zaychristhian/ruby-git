@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Updated SQL Query Plot Code (#8120)
