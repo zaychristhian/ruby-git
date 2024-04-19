@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Fix cmake requirements for ARM64 (#8589)
