@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Add plot_images conf_thresh parameter (#8446)
