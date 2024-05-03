@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
