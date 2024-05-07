@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Add simple-utilities.md Docs page (#8269)
