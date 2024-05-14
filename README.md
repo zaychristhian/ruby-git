@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
