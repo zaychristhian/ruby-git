@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Improve Coral Edge TPU guide (#8160)
