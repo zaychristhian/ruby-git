@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
