@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Modify tuner best.pt logic to train first (#8792)
