@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update Docs language dropdown height (#6927)
