@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
