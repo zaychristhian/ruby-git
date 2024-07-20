@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
