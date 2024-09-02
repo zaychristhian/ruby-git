@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
