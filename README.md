@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
