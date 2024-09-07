@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
