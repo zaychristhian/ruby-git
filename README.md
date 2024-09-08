@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
