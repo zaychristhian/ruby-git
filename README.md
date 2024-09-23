@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+YOLOv8 INT8 TFLite Inference Example (#7317)
