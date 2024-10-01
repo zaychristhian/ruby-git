@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add visuals in guides/distance-calculation.md (#7876)
