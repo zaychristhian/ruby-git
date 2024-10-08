@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update inference.cpp (bug) (#7279)
