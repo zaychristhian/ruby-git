@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update the heatmap module code + docs (#7045)
